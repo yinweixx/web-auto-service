@@ -1,0 +1,9 @@
+/home/yw/ideaworkspace/anyun-cloud-web-main/web-common/src/main/java/com/anyun/cloud/web/common/task/YwMethod.java
+/home/yw/ideaworkspace/anyun-cloud-web-main/web-common/src/main/java/com/anyun/cloud/web/common/task/YwParams.java
+/home/yw/ideaworkspace/anyun-cloud-web-main/web-common/src/main/java/com/anyun/cloud/web/common/TestService.java
+/home/yw/ideaworkspace/anyun-cloud-web-main/web-common/src/main/java/com/anyun/cloud/web/common/database/mysql/DBFactory.java
+/home/yw/ideaworkspace/anyun-cloud-web-main/web-common/src/main/java/com/anyun/cloud/web/common/message/nats/NatsConfig.java
+/home/yw/ideaworkspace/anyun-cloud-web-main/web-common/src/main/java/com/anyun/cloud/web/common/task/YwAz.java
+/home/yw/ideaworkspace/anyun-cloud-web-main/web-common/src/main/java/com/anyun/cloud/web/common/message/nats/DefaultNats.java
+/home/yw/ideaworkspace/anyun-cloud-web-main/web-common/src/main/java/com/anyun/cloud/web/common/message/nats/Nats.java
+/home/yw/ideaworkspace/anyun-cloud-web-main/web-common/src/main/java/com/anyun/cloud/web/common/entity/Product.java
